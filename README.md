@@ -1,6 +1,8 @@
 # DeepVGL
 Visual Global Localization Based on  Deep Neural Netwoks for Self-Driving Cars
 
+See DeepVGL video: https://drive.google.com/file/d/1_82n_fol89TteE_VZp-4YPR0AFLKq9Lh/view?usp=sharing
+
 Volta-da-UFES dataset download link: https://drive.google.com/drive/folders/1tqRKGO3DtW1yreoxYeD9Ssc3Ip8fxaXC?usp=sharing
 
 
