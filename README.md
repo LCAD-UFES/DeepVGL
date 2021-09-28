@@ -1,6 +1,8 @@
 # DeepVGL
 Visual Global Localization Based on  Deep Neural Netwoks for Self-Driving Cars
 
+**Authors:** Thiago Gonçalves Cavalcante , Avelino Forechi, Thiago Oliveira-Santos, Alberto F. De Souza and Claudine Badue
+
 If you use DeepVGL in an academic work, please cite:
 ```
 @INPROCEEDINGS{9533843,
